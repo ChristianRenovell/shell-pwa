@@ -1,0 +1,13 @@
+{
+    "publicKey": "BFWd_d7wk789uf2O4P_GmId9NVF5lRLQgLbHpl28S11YnHPE0zFY4JYM7xrfA3HY5AqEm1Y8OzWqg5BcTauOcfA",
+    "privateKey": "_hXTDIlVs2kh8AFpFoVzCBT9gkZgg8SL64-H9xcr9r4"
+}
+
+{
+    "endpoint": "https://fcm.googleapis.com/fcm/send/ehWB0EK8r9Y:APA91bF11TE1X2mCjnY1eC2NdU3OGmnHNrEwknbgAKBKuI1jTYe63wgGg9IBKkn6WVlIGZjywimWYzElcCuLDq7O44cyt5uIVAfuJ7ad5vsE0b27vcJ69QgGUhjqhui8qGXxV3cQ5Osm",
+    "expirationTime": null,
+    "keys": {
+        "p256dh": "BPhgqkmKb3YxXPWXR2OVoxZJkX9kaP39R5-3hq7zbt9zE4JP0lhFrQpcWgJcQ-y07dtYWhfnBckOXg0ZdQ0Naik",
+        "auth": "zAgH1RCo-ivlucRHa6SA2g"
+    }
+}
